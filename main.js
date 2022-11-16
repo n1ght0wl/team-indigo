@@ -5,7 +5,7 @@ var i = 0;
 var speed = 50;
 
 function typeWriter() {
- var txt = 'You don\'t have to see the whole staircase in order to take the first step';
+ var txt = '“You don\'t have to see the whole staircase in order to take the first step”';
 
   if (i < txt.length) {
       document.getElementById("quote").innerHTML += txt.charAt(i);
