@@ -22,7 +22,7 @@ CFG Javascript Challenge project
 
 Landing Page               |  Quiz                      |  Background Generator
 :-------------------------:|:-------------------------: |:-------------------------: |
-                            
+                                                        |  |![]https://github.com/n1ght0wl/team-indigo/blob/main/background_generator.png                            
 
 ## Tech Stack
 
