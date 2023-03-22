@@ -6,7 +6,7 @@ CFG Javascript Challenge project
 
 ## Authors
 
-- [@Androulla](https://github.com/n1ght0wl)
+- [Androulla](https://github.com/n1ght0wl)
 - [Niamh](https://github.com/NiamhBrown)
 - [Chloe]()
 - [Ekaterina]()
