@@ -7,9 +7,9 @@ CFG Javascript Challenge project
 ## Authors
 
 - [Androulla](https://github.com/n1ght0wl)
-- [Niamh](https://github.com/NiamhBrown)
-- [Chloe]()
-- [Ekaterina]()
+- [Niamh Brown](https://github.com/NiamhBrown)
+- [Chloe Pang]()
+- [Ekaterina Nemshevich]()
 
 ## Demo
 
