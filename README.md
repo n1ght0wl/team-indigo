@@ -1,4 +1,29 @@
 # team-indigo
 
 
-Link: https://n1ght0wl.github.io/team-indigo/
+CFG Javascript Challenge project
+
+
+## Authors
+
+- [@Androulla](https://github.com/n1ght0wl)
+- [Niamh](https://github.com/NiamhBrown)
+- [Chloe]()
+- [Ekaterina]()
+
+## Demo
+
+[Live version available on Github Pages](https://n1ght0wl.github.io/team-indigo/)
+
+
+## Features
+
+## Screenshots
+
+Landing Page               |  Quiz                      |  Background Generator
+:-------------------------:|:-------------------------: |:-------------------------: |
+
+## Tech Stack
+
+**Main** HTML5, CSS, JavaScript
+
